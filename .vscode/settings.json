@@ -3,5 +3,19 @@
     "dotnetAcquisitionExtension.existingDotnetPath": [
         
     ],
-    "BOJ.author": "shfkswhd"
+    "BOJ.author": "shfkswhd",
+    "teamGrassTracker.teamMembers": [
+        {
+            "githubName": "MakeDr",
+            "displayName": "MakeDr",
+            "colorPosition": 25
+        },
+        {
+            "githubName": "shfkswhd",
+            "displayName": "노란종",
+            "colorPosition": 0
+        }
+    ],
+    "teamGrassTracker.teamTitle": "잔디 공장",
+    "liveServer.settings.port": 5501
 }
