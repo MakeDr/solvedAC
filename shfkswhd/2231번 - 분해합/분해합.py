@@ -25,3 +25,5 @@ for i in range(start, N):
     if i + sum(map(int, str(i))) == N:
         print(i)
         break
+else:
+    print(0)  # 생성자가 없는 경우
