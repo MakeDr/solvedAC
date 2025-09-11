@@ -4,18 +4,16 @@
         
     ],
     "BOJ.author": "shfkswhd",
+    "liveServer.settings.port": 5501,
+    "teamGrassTracker.teamTitle": "으악",
     "teamGrassTracker.teamMembers": [
-        {
-            "githubName": "MakeDr",
-            "displayName": "MakeDr",
-            "colorPosition": 25
-        },
+
         {
             "githubName": "shfkswhd",
             "displayName": "노란종",
-            "colorPosition": 0
+            "colorPosition": 25
         }
     ],
-    "teamGrassTracker.teamTitle": "잔디 공장",
-    "liveServer.settings.port": 5501
+    "teamGrassTracker.autoRefresh": true,
+    "teamGrassTracker.targetRepository": "c:\\Users\\user\\OneDrive\\문서\\GitHub\\solvedAC",
 }
